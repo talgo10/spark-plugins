@@ -4,6 +4,14 @@ This repository contains an example Spark plugin written in Scala and built with
 
 The plugin implements the `SparkPlugin` interface to demonstrate driver and executor lifecycle hooks.
 
+## Testing
+
+Run the unit tests with:
+
+```bash
+sbt test
+```
+
 ## Building
 
 Run the following command to build the plugin JAR:
