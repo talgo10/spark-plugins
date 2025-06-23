@@ -1,3 +1,5 @@
+package com.example.plugin
+
 import com.holdenkarau.spark.testing.SharedSparkContext
 import org.apache.spark.SparkConf
 import org.scalatest.funsuite.AnyFunSuite
